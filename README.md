@@ -142,7 +142,7 @@ Content-Type: application/json
 }
 ```
 
-![Post Request](./ServerSendEventsExample/documents/create-sse-postman-request.png)
+![Post Request](./ServerSentEventsExample/documents/create-sse-postman-request.png)
 
 #### **2. Servis Nasıl Çağrılır? (GET /notifications/stream/{userId})**
 Bildirimleri dinlemek için şu şekilde bir GET isteği yapılır:
@@ -151,4 +151,4 @@ Bildirimleri dinlemek için şu şekilde bir GET isteği yapılır:
 ```bash
 curl http://localhost:5000/notifications/stream/1998
 ```
-![GET Request](./ServerSendEventsExample/documents/get-sse-request.gif)
+![GET Request](./ServerSentEventsExample/documents/get-sse-request.gif)

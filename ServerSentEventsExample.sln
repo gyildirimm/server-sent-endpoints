@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSendEventsExample", "ServerSendEventsExample\ServerSendEventsExample.csproj", "{F828675B-5820-4801-910C-DFF7643D770B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSentEventsExample", "ServerSentEventsExample\ServerSentEventsExample.csproj", "{F828675B-5820-4801-910C-DFF7643D770B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
